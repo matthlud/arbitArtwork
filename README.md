@@ -1,2 +1,2 @@
 # arbitArtwork
-First Test with Kotlin for Android
+Test set-up for Kotlin under Android.
