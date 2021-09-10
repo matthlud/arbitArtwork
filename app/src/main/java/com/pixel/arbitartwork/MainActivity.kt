@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         val rollButtonI = findViewById<Button>(R.id.rollButton);
         val textViewI = findViewById<TextView>(R.id.textView);
         rollButtonI.setOnClickListener {
-            textViewI.text="Yay! I am a Kotlin beginner"
+            textViewI.text="I am a Kotlin beginner"
         }
     }
 
